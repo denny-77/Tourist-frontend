@@ -1,0 +1,11 @@
+h1 {
+  font-weight: 1000;
+  color: whitesmoke;
+}
+
+body {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.9), rgba(0, 0, 0, 0.3)), url(/assets/paris_bg.jpg);
+  background-size: cover;
+  background-position: center center;
+
+}
