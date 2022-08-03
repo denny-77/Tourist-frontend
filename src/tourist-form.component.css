@@ -1,0 +1,35 @@
+#gender {
+  margin: 15px;
+}
+
+small {
+  color: red;
+  font-weight: 400;
+}
+
+h2 {
+  text-align: center;
+  color: peru;
+}
+
+body {
+  margin: 20px;
+  padding: 30px 30px;
+  border: 5px solid rgba(22, 77, 87, 0.651);
+  text-align: auto;
+  background-color: rgb(128, 128, 128, 0.9);
+}
+
+#register {
+ 
+  padding: 10px 50px;
+  font-weight: bold;
+}
+
+#register:hover {
+  cursor: pointer;
+}
+
+label {
+  font-weight: 500;
+}
